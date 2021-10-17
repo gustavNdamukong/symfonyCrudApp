@@ -92,10 +92,17 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="symfonyCrudApp1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/images/symfonyCrudApp1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -348,12 +355,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634293390982</updated>
-      <workItem from="1634293392840" duration="22433000" />
+      <workItem from="1634293392840" duration="22953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22433000" />
+    <option name="totallyTimeSpent" value="22953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1336" y="217" width="1184" height="740" extended-state="0" />
@@ -510,17 +517,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/ymfonysCrudApp2.png">
+    <entry file="file://$PROJECT_DIR$/public/images/symfonyCrudApp2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/ymfonysCrudApp1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/ymfonysCrudApp3.png">
+    <entry file="file://$PROJECT_DIR$/public/images/symfonyCrudApp3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -533,10 +535,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/symfonyCrudApp1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
           <folding />
         </state>
       </provider>
